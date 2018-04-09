@@ -29,9 +29,11 @@ if (genero.equalsIgnoreCase("H")){
 }else if(genero.equalsIgnoreCase("M")){
 	pesoideal=altura-120;
 	
-}
+}System.out.println("hola tu peso ideal es");
 System.out.println("tu peso ideal es"+pesoideal);
-        
+
+      
+  
     }
     
 }
