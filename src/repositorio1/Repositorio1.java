@@ -32,7 +32,10 @@ if (genero.equalsIgnoreCase("H")){
 }System.out.println("hola tu peso ideal es");
 System.out.println("tu peso ideal es"+pesoideal);
 
-      System.out.println("hola tu peso ideal es");
+     
+  System.out.println("hola tu peso ideal es");
+	    
+	    System.out.println("hola tu peso ideal es");
 System.out.println("tu peso ideal es"+pesoideal);
 
   
